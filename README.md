@@ -6,9 +6,6 @@ Empowering People, Elevating Performance
 [Performance Dashboard](2-Performance%20Dashboard.png)
 [Employees Dashboard](3-Employees%20Dashboard.png)
 [Employees Dashboard 2](4-Employees%20Dashboard%20(2).png)
-[Insight 1](5-insight%20(1).png)
-[Insight 2](6-%20insight%20(2).png)
-[Insight 3](7-insight%20(3).png)
 
 **📌Business Problem**
 94 employees across 3 locations with a -14% performance drop 
@@ -36,9 +33,9 @@ Checked for outliers in salary and age columns
 5. Pay equity needs restructuring large gap between min/max salaries 
 6. 58.5% of employees hold a bachelor's degree entire sales team holds a diploma 
 7. 2016 was the peak hiring year (18.09%)
-[Insight 1](5-insight__1_.png)
-[Insight 2](6-_insight__2_.png)
-[Insight 3](7-insight__3_.png)
+[Insight 1](5-insight%20(1).png)
+[Insight 2](6-%20insight%20(2).png)
+[Insight 3](7-insight%20(3).png)
 
 **✅Recommendations**
 1. **Expand Tanta's team** high performance, low cost = **best ROI**
