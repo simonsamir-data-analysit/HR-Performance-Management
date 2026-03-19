@@ -3,9 +3,6 @@ Empowering People, Elevating Performance
 [Cover](1-cover.png)
 
 **📊 Dashboard Preview**
-(2-Performance_Dashboard.png)
-[Employees Dashboard](3-Employees_Dashboard.png)
-[Employees Dashboard 2](4-Employees_Dashboard__2_.png)
 
 **📌Business Problem**
 94 employees across 3 locations with a -14% performance drop 
