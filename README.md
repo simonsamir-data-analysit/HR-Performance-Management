@@ -3,7 +3,7 @@ Empowering People, Elevating Performance
 [Cover](1-cover.png)
 
 **📊 Dashboard Preview**
-[Performance Dashboard](2-Performance_Dashboard.png)
+(2-Performance_Dashboard.png)
 [Employees Dashboard](3-Employees_Dashboard.png)
 [Employees Dashboard 2](4-Employees_Dashboard__2_.png)
 
